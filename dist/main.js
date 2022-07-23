@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("content");(()=>{const t=document.getElementById("content");return{populateContent:function(){let e=document.createElement("div");e.textContent="HAHAHAHHH",t.appendChild(e)},removeContent:function(){for(;t.firstChild;)t.removeChild(t.firstChild)}}})().populateContent()})();

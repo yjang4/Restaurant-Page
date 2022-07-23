@@ -1,0 +1,26 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "my rwestourainto pageuourino",
+  "main": "index.js",
+  "scripts": {
+    "test": "idk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjang4/Restaurant-Page.git"
+  },
+  "keywords": [
+    "n"
+  ],
+  "author": "me",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/yjang4/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/yjang4/Restaurant-Page#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
